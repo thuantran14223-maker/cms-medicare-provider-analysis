@@ -1,4 +1,5 @@
 ![Dashboard](screenshots/dashboard.png)
+*Interactive Tableau dashboard analyzing Medicare spending, reimbursement patterns, and provider specialty strategies.*
 # CMS Medicare Provider Analysis
 
 ## Project Overview
@@ -11,7 +12,7 @@ The analysis combines Python, SQL, and Tableau to identify key drivers of Medica
 
 ## Dashboard
 
-**Dashboard Title**
+### Dashboard Title
 
 Medicare Spending Patterns: Volume, Cost, and Provider Strategy
 
@@ -22,7 +23,7 @@ The dashboard examines:
 * Charge versus Medicare reimbursement gaps
 * Service volume versus payment relationships across specialties
 
-**Tableau Public Dashboard**
+### Tableau Dashboard
 
 https://public.tableau.com/app/profile/thuan.tran6584/viz/CMSMedicareProviderAnalysisDashboard/MedicareSpendingPatternsVolumeCostandProviderStrategy?publish=yes
 
