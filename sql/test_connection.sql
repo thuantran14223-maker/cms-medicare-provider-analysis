@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM medicare_provider_clean;
