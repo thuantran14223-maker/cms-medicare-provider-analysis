@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code / OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local database
+cms_medicare.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Full raw CMS dataset (too large for GitHub)
+data/raw/Medicare_Physician_Other_Practitioners_by_Provider_2023.csv
+
+# Tableau temporary / backup files
+*.twb~
+*.twbx~
